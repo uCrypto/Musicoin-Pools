@@ -4,6 +4,7 @@
 
 | Website                            | Miners Online | Pool Hash Rate | Pool Fee |      |
 | ---------------------------------- | :------------ | :------------- | :------- | :--: |
+| https://ucrypto.net/currency/?curr=MUSIC | 12      | 437 MH/s       | 0.5%     |      |
 | http://unepa.com                   | 9             | 980 MH/s       | 0%       |      |
 | http://mc.easy2fx.com              | 5             | 530MH/s        | 0.0%     |      |
 | http://musicoin.nomnom.technology  | 225           | 34.43 GH/s     | 0.5%     |      |
@@ -34,4 +35,4 @@
 | https://megapool.io/music          | 0             | 0              | 0%       |      |
 | http://musicmine.us/               | 5             | 320 MH/s       | 0%       |      |
 | https://musicoin.miningpoolhub.com | ???           | 74.413 GH/s    | 0.9%     |      |
-https://ucrypto.net/currency/?curr=MUSIC | 12        | 437 MH/s       | 0.5%     |      |
+
